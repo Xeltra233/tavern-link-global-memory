@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Configuration (contains sensitive data)
+config.json
+
+# Data files (user-specific)
+data/characters/
+data/character_overrides/
+data/worldbooks/
+data/worlds/
+data/chats/
+
+# Keep data directory structure
+!data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Audio files (generated TTS)
+audio/
+
+# Environment
+.env
+.env.local
