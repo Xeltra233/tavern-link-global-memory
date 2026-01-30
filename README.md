@@ -1,6 +1,3 @@
-## 📝 **更新后的完整 `README.md`**
-
-```markdown
 # 🍺 Tavern-Link 魔改版
 
 **Tavern-Link 魔改版** 是一个支持 **全局共享记忆** 的 QQ AI 机器人，实现多会话跨用户的持久化上下文管理。
